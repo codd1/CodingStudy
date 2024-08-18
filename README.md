@@ -5,9 +5,9 @@
 2. 하루 빠질 때마다 모임 통장에 1만원 입금 ⭐
 
 ### 👥 스터디 구성원 및 선택 언어
-@codd1 (C++)
+[@codd1](https://github.com/codd1) (C++)
 
-@hyungEee (Python)
+[@hyungEee](https://github.com/hyungEee) (Python)
 
 ### 📆 스터디 기간
 - 2024.08.18 ~ ing
