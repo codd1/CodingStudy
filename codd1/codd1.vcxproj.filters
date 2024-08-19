@@ -21,5 +21,8 @@
     <ClCompile Include="Search\2343.cpp">
       <Filter>소스 파일\Search</Filter>
     </ClCompile>
+    <ClCompile Include="Search\1300.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
