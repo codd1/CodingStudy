@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Search">
       <UniqueIdentifier>{eaee619a-8a36-4b6c-9e9a-acd07fd3ecd6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Greedy">
+      <UniqueIdentifier>{76b802c6-96f9-4c54-96e8-f75b3d41b655}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Search\2343.cpp">
@@ -23,6 +26,9 @@
     </ClCompile>
     <ClCompile Include="Search\1300.cpp">
       <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy\11047.cpp">
+      <Filter>소스 파일\Greedy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
