@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3796612E-0229-47E5-89FB-1A24964875A4}|codd1.vcxproj|C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Greedy\\1138.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3796612E-0229-47E5-89FB-1A24964875A4}|codd1.vcxproj|solutionrelative:Greedy\\1138.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3796612E-0229-47E5-89FB-1A24964875A4}|codd1.vcxproj|C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Greedy\\1026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3796612E-0229-47E5-89FB-1A24964875A4}|codd1.vcxproj|solutionrelative:Greedy\\1026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3796612E-0229-47E5-89FB-1A24964875A4}|codd1.vcxproj|C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Greedy\\11047.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3796612E-0229-47E5-89FB-1A24964875A4}|codd1.vcxproj|solutionrelative:Greedy\\11047.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3796612E-0229-47E5-89FB-1A24964875A4}|codd1.vcxproj|C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Search\\1300.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3796612E-0229-47E5-89FB-1A24964875A4}|codd1.vcxproj|solutionrelative:Search\\1300.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3796612E-0229-47E5-89FB-1A24964875A4}|codd1.vcxproj|C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Search\\2343.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3796612E-0229-47E5-89FB-1A24964875A4}|codd1.vcxproj|solutionrelative:Search\\2343.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1138.cpp",
+              "DocumentMoniker": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Greedy\\1138.cpp",
+              "RelativeDocumentMoniker": "Greedy\\1138.cpp",
+              "ToolTip": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Greedy\\1138.cpp",
+              "RelativeToolTip": "Greedy\\1138.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T20:30:17.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1026.cpp",
+              "DocumentMoniker": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Greedy\\1026.cpp",
+              "RelativeDocumentMoniker": "Greedy\\1026.cpp",
+              "ToolTip": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Greedy\\1026.cpp",
+              "RelativeToolTip": "Greedy\\1026.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T19:49:38.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "11047.cpp",
+              "DocumentMoniker": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Greedy\\11047.cpp",
+              "RelativeDocumentMoniker": "Greedy\\11047.cpp",
+              "ToolTip": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Greedy\\11047.cpp",
+              "RelativeToolTip": "Greedy\\11047.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T12:01:51.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1300.cpp",
+              "DocumentMoniker": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Search\\1300.cpp",
+              "RelativeDocumentMoniker": "Search\\1300.cpp",
+              "ToolTip": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Search\\1300.cpp",
+              "RelativeToolTip": "Search\\1300.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-18T16:49:55.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2343.cpp",
+              "DocumentMoniker": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Search\\2343.cpp",
+              "RelativeDocumentMoniker": "Search\\2343.cpp",
+              "ToolTip": "C:\\Users\\mgs08\\source\\repos\\CodingStudy\\codd1\\Search\\2343.cpp",
+              "RelativeToolTip": "Search\\2343.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-18T16:49:34.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
