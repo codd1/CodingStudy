@@ -1,4 +1,4 @@
-import sys
+import sys 
 
 n=int(sys.stdin.readline())
 input=list(sys.stdin.readline().rstrip())
