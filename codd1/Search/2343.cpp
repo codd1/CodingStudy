@@ -15,7 +15,7 @@ int main() {
 	int end = 0;
 	int median = 0;
 
-	for (int i = 0; i < N; i++) {
+	for (int i = 0; i < N; i++) { 
 		cin >> lecture[i];
 
 		if (lecture[i] > start) {	// 강의 길이의 최댓값을 찾아서 start에 저장
