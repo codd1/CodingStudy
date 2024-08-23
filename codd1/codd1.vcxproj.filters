@@ -37,6 +37,12 @@
       <Filter>소스 파일\Greedy</Filter>
     </ClCompile>
     <ClCompile Include="Greedy\1138.cpp">
+		<Filter>소스 파일\Greedy</Filter>
+	</ClCompile>
+    <ClCompile Include="Greedy\1715.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy\1744.cpp">
       <Filter>소스 파일\Greedy</Filter>
     </ClCompile>
   </ItemGroup>
