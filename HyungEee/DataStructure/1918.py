@@ -1,4 +1,4 @@
-import sys
+import sys 
 
 infix=list(sys.stdin.readline().rstrip())
 postfix=list()
