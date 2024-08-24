@@ -48,5 +48,8 @@
     <ClCompile Include="NumberTheory\1929.cpp">
       <Filter>소스 파일\NumberTheory</Filter>
     </ClCompile>
+    <ClCompile Include="NumberTheory\1456.cpp">
+      <Filter>소스 파일\NumberTheory</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
