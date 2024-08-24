@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Greedy">
       <UniqueIdentifier>{76b802c6-96f9-4c54-96e8-f75b3d41b655}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\NumberTheory">
+      <UniqueIdentifier>{770e34cc-5f05-4939-bc40-efb64c6bb24b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Search\2343.cpp">
@@ -44,6 +47,18 @@
     </ClCompile>
     <ClCompile Include="Greedy\1744.cpp">
       <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy\1931.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy\1541.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberTheory\1929.cpp">
+      <Filter>소스 파일\NumberTheory</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberTheory\1456.cpp">
+      <Filter>소스 파일\NumberTheory</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
