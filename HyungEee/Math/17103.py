@@ -7,15 +7,12 @@ for i in range (2,1001):
     if nums[i]:
         for j in range (i*i,1000001,i):
            nums[j]=False
-
-while True:
+           
+t=int(sys.stdin.readline())
+for _ in range(t):
     n=int(sys.stdin.readline())
-    if n==0:
-        break
-    if n%2!=0:
-        print("Goldbach's conjecture is wrong.")
-        continue
-    for i in range(2,n):
+    count=0
+    for i in range(2,n//2+1):
         if nums[i] and nums[n-i]:
-            print(f'{n} = {i} + {n-i}')
-            break
+            count+=1
+    print(count)
