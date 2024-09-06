@@ -5,7 +5,7 @@ using namespace std;
 
 // 이분 그래프: 각 집합에 속한 노드끼리 서로 인접하지 않는 두 집합으로 그래프의 노드를 나눌 수 있는 그래프
 
-void DFS(vector<vector<int>> nodes, vector<int>& set, vector<bool>& visited, int num, bool& isCycle) {
+void DFS(vector<vector<int>>& nodes, vector<int>& set, vector<bool>& visited, int num, bool& isCycle) {
 	int nextNode;		// 다음 노드 (참고: 현재 노드는 num)
 
 	visited[num] = true;
