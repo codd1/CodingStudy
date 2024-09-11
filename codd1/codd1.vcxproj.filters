@@ -51,5 +51,17 @@
     <ClCompile Include="NumberTheory\1456.cpp">
       <Filter>소스 파일\NumberTheory</Filter>
     </ClCompile>
+    <ClCompile Include="Search\1325.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Search\1707.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Search\18352.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="1717.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
