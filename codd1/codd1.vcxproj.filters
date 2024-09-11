@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\NumberTheory">
       <UniqueIdentifier>{770e34cc-5f05-4939-bc40-efb64c6bb24b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Etc">
+      <UniqueIdentifier>{0bd38c28-acc4-4d7b-a67c-3f8a5a5d5d7e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Search\2343.cpp">
@@ -59,6 +62,24 @@
     </ClCompile>
     <ClCompile Include="NumberTheory\1456.cpp">
       <Filter>소스 파일\NumberTheory</Filter>
+    </ClCompile>
+    <ClCompile Include="Search\1325.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Search\1707.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Search\18352.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Etc\1717.cpp">
+      <Filter>소스 파일\Etc</Filter>
+    </ClCompile>
+    <ClCompile Include="Etc\1976.cpp">
+      <Filter>소스 파일\Etc</Filter>
+    </ClCompile>
+    <ClCompile Include="Etc\1043.cpp">
+      <Filter>소스 파일\Etc</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
