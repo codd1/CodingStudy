@@ -1,6 +1,7 @@
 #include <iostream>
 #include <queue>
 #include <vector>
+#include <set>
 
 using namespace std;
 
@@ -56,30 +57,27 @@ int main() {
 
 	cout << critical_path[end] << "\n";		// 지도를 그리는 사람들이 도착하는 시간 출력
 
-	// 1분도 쉬지 않고 달려야하는 도로의 수 구하기
-	int count = 0;
-	vector<int> visited(false, 0);
+	// 1분도 쉬지 않고 달려야하는 도로의 수 구하기 (즉, 최대 길이의 경로 구하기)
+	set<pair<int, int>> s;		// 중복X 정답 저장을 위한 set (set의 크기가 정답이 됨)
 
-	q.push(end);
+	q.push(end);	// 역추적 알고리즘 (end -> start)
 	front = q.front();
 
 	while (!q.empty()) {
 		front = q.front();
 		q.pop();
-		count++;
 
 		for (int i = 0; i < reverse_road[front].size(); i++) {
-			if (visited[reverse_road[front][i].first] == false) {
+			if (s.find(make_pair(front, reverse_road[front][i].first)) == s.end()) {	// set에 없는 경우에만 실행 (시간초과 방지)
 				if (critical_path[front] == critical_path[reverse_road[front][i].first] + reverse_road[front][i].second) {
 					q.push(reverse_road[front][i].first);
+					s.insert(make_pair(front, reverse_road[front][i].first));
 				}
-
-				visited[reverse_road[front][i].first] = true;
 			}
 		}
 	}
 
-	cout << count << "\n";
+	cout << s.size() << "\n";
 
 	return 0;
 }
