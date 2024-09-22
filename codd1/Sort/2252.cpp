@@ -35,7 +35,7 @@ int main() {
 
 		for (int i = 0; i < student[front].size(); i++) {
 			indegree[student[front][i]]--;		// 방문했으니 indegree--
-			
+
 			if (indegree[student[front][i]] == 0) {
 				q.push(student[front][i]);
 			}
