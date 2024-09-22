@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Etc">
       <UniqueIdentifier>{0bd38c28-acc4-4d7b-a67c-3f8a5a5d5d7e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Sort">
+      <UniqueIdentifier>{143c0729-3f0b-4780-b6cf-3788d351021d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Search\2343.cpp">
@@ -92,6 +95,9 @@
     </ClCompile>
     <ClCompile Include="Etc\1043.cpp">
       <Filter>소스 파일\Etc</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort\2252.cpp">
+      <Filter>소스 파일\Sort</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
