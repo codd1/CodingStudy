@@ -120,5 +120,11 @@
     <ClCompile Include="Graph\1753.cpp">
       <Filter>소스 파일\Graph</Filter>
     </ClCompile>
+    <ClCompile Include="Graph\1916.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\1854.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
