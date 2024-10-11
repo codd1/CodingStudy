@@ -168,5 +168,11 @@
     <ClCompile Include="Tree\2042.cpp">
       <Filter>소스 파일\Tree</Filter>
     </ClCompile>
+    <ClCompile Include="Tree\10868.cpp">
+      <Filter>소스 파일\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree\11505.cpp">
+      <Filter>소스 파일\Tree</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
