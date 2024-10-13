@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\Tree">
       <UniqueIdentifier>{db39cae0-5c05-486d-94a1-91ecafe731d8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Combination">
+      <UniqueIdentifier>{63a04db8-e9e5-4dd9-8239-3a884a5eb2bf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Search\2343.cpp">
@@ -170,6 +173,9 @@
     </ClCompile>
     <ClCompile Include="Tree\11438.cpp">
       <Filter>소스 파일\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Combination\11050.cpp">
+      <Filter>소스 파일\Combination</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
