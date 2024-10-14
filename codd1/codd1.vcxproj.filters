@@ -189,5 +189,8 @@
     <ClCompile Include="Combination\2775_best.cpp">
       <Filter>소스 파일\Combination</Filter>
     </ClCompile>
+    <ClCompile Include="Combination\1010.cpp">
+      <Filter>소스 파일\Combination</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
