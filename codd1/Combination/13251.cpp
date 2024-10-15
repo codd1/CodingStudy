@@ -3,23 +3,6 @@
 
 using namespace std;
 
-long long factorial(long long num) {
-	if (num <= 1) {
-		return 1;
-	}
-
-	return num * factorial(num - 1);
-}
-
-long long factorial(long long N_sum, long long K) {
-	int result = 1;
-	for (int i = N_sum; i > N_sum - K; i--) {
-		result *= i;
-	}
-
-	return result;
-}
-
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
@@ -30,8 +13,8 @@ int main() {
 	cin >> M;
 
 	vector<long long> N(M);
+	double N_sum = 0;		// 모든 조약돌의 갯수 총합
 
-	double N_sum = 0;
 	for (int i = 0; i < M; i++) {
 		cin >> N[i];
 
@@ -40,19 +23,34 @@ int main() {
 
 	cin >> K;
 
-	N_sum = factorial(N_sum, K) / factorial(K);
+	double sum = 1.0;		// 각 조약돌 색별로 확률
+	double result = 0.0;
 
-	double C_sum = 0;
+	/*
+		3
+		5 6 7
+		2
+
+		5개 조약돌 색 뽑을 확률 = 5/18 * 4/17 = A
+		6개 조약돌 색 뽑을 확률 = 6/18 * 5/17 = B
+		7개 조약돌 색 뽑을 확률 = 7/18 * 6/17 = C
+
+		result = A + B + C
+	*/
+
 	for (int i = 0; i < M; i++) {
-		// N[i] C k
-		C_sum += factorial(N[i], K) / factorial(K);
-	}
+		for (int j = 0; j < K; j++) {
+			sum *= (N[i] - j) / (N_sum - j);
+		}
+		
+		result += sum;
 
-	float result = C_sum / N_sum;
+		sum = 1.0;
+	}
 
 	cout.precision(16);		// 소수점 16번째 자리까지 출력
 
-	cout << C_sum / N_sum << "\n";
+	cout << result << "\n";
 
 	return 0;
 }
