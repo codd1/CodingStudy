@@ -204,5 +204,11 @@
     <ClCompile Include="Combination\1722.cpp">
       <Filter>소스 파일\Combination</Filter>
     </ClCompile>
+    <ClCompile Include="Combination\1256.cpp">
+      <Filter>소스 파일\Combination</Filter>
+    </ClCompile>
+    <ClCompile Include="Combination\1947.cpp">
+      <Filter>소스 파일\Combination</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
