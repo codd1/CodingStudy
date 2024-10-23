@@ -234,5 +234,8 @@
     <ClCompile Include="DP\1328.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
+    <ClCompile Include="Etc\10828.cpp">
+      <Filter>소스 파일\Etc</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
