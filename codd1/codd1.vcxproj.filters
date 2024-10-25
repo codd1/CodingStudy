@@ -246,5 +246,8 @@
     <ClCompile Include="Implementation\2019_KAKAO_BLIND_RECRUITMENT_실패율.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="Implementation\2019_KAKAO_BLIND_RECRUITMENT_오픈채팅방.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
