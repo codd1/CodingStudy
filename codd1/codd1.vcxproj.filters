@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\DP">
       <UniqueIdentifier>{f2e53013-5091-4ade-ace8-dad5b3e699c5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Implementation">
+      <UniqueIdentifier>{7b0b0047-d7e9-42b9-8421-cfc4cde847f9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Search\2343.cpp">
@@ -227,6 +230,39 @@
     </ClCompile>
     <ClCompile Include="DP\10844.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="DP\13398.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="DP\9252.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="DP\1915.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="DP\1328.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\10828.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\10845.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\2019_KAKAO_BLIND_RECRUITMENT_실패율.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\2019_KAKAO_BLIND_RECRUITMENT_오픈채팅방.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberTheory\프로그래머스_연습문제_소수찾기.cpp">
+      <Filter>소스 파일\NumberTheory</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_모의고사.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_시저암호.cpp">
+      <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
