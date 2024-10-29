@@ -252,5 +252,8 @@
     <ClCompile Include="NumberTheory\프로그래머스_연습문제_소수찾기.cpp">
       <Filter>소스 파일\NumberTheory</Filter>
     </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_모의고사.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
