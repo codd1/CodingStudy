@@ -145,10 +145,16 @@
     <ClCompile Include="Implementation\2019_KAKAO_BLIND_RECRUITMENT_오픈채팅방.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Implementation\프로그래머스_연습문제_과일장수.cpp" />
+    <ClCompile Include="Implementation\프로그래머스_연습문제_과일장수.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_덧칠하기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Implementation\프로그래머스_연습문제_모의고사.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_문자열나누기.cpp" />
     <ClCompile Include="Implementation\프로그래머스_연습문제_시저암호.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

@@ -261,5 +261,11 @@
     <ClCompile Include="Implementation\프로그래머스_연습문제_과일장수.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_덧칠하기.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_문자열나누기.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
