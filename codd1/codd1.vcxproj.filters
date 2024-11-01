@@ -267,5 +267,11 @@
     <ClCompile Include="Implementation\프로그래머스_연습문제_문자열나누기.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_최댓값과_최솟값.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_연속부분수열_합의개수.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
