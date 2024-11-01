@@ -162,6 +162,10 @@
     <ClCompile Include="Implementation\프로그래머스_연습문제_시저암호.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_연속부분수열_합의개수.cpp" />
+    <ClCompile Include="Implementation\프로그래머스_연습문제_최댓값과_최솟값.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="NumberTheory\1016.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
