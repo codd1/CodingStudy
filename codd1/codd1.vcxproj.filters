@@ -279,5 +279,11 @@
     <ClCompile Include="Implementation\프로그래머스_연습문제_연속부분수열_합의개수.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="Greedy\프로그래머스_Greedy_구명보트.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_큐_프로세스.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
