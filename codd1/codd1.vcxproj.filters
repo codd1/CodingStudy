@@ -279,5 +279,14 @@
     <ClCompile Include="Implementation\프로그래머스_큐_프로세스.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_정렬_가장큰수.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Etc\프로그래머스_연습문제_연속된_부분수열의_합.cpp">
+      <Filter>소스 파일\Etc</Filter>
+    </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_124나라의숫자.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
