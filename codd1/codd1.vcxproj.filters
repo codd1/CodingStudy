@@ -297,5 +297,8 @@
     <ClCompile Include="Implementation\프로그래머스_스택큐_주식가격.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="Implementation\프로그래머스_연습문제_행렬의곱셈.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
