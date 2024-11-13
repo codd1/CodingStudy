@@ -25,6 +25,7 @@ def dfs():
             for i in graph[value]:
                 if not visited[i]:
                     stack.append(i)
+                    
 def bfs():
     visited=[False]*(n+1)
     q=deque()
