@@ -35,6 +35,5 @@ def bfs(graph,n,v):
             for i in range(1,n+1):
                 if graph[value][i]==1 and not visited[i]:
                     queue.append(i)        
-
 dfs(graph,n,v)
 bfs(graph,n,v)
