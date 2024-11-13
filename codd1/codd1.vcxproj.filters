@@ -288,17 +288,23 @@
     <ClCompile Include="Implementation\프로그래머스_연습문제_124나라의숫자.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
-    <ClCompile Include="Etc\프로그래머스_연습문제_N개의최소공배수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Search\프로그래머스_완전탐색_피로도.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Implementation\프로그래머스_스택큐_주식가격.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
     <ClCompile Include="Implementation\프로그래머스_연습문제_행렬의곱셈.cpp">
       <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Search\프로그래머스_완전탐색_전력망을_둘로나누기.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Search\프로그래머스_연습문제_무인도여행.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Search\프로그래머스_완전탐색_피로도.cpp">
+      <Filter>소스 파일\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Etc\프로그래머스_연습문제_N개의최소공배수.cpp">
+      <Filter>소스 파일\Etc</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
